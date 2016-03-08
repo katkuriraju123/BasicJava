@@ -1,0 +1,2 @@
+# BasicJava
+Standalone app
